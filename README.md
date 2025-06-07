@@ -1,1 +1,3 @@
-# SquareBage-Webiste
+# SquareBagel-Webiste
+
+Made by Anamika Kashyap
